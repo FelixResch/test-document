@@ -7,7 +7,9 @@ tags:
   - Markdown
   - Editor
 author:
+  - Michael Pilz
   - Felix Resch
+  - Kevin Watzal
 ---
 
 # About this app
@@ -55,6 +57,7 @@ is maintained by the W3C.
 
 *[HTML]: Hyper Text Markup Language
 *[W3C]:  World Wide Web Consortium
+*[HTTP]: Hyper Text Transport Protocol
 
 # Authors
 
