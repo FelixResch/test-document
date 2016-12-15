@@ -59,6 +59,24 @@ is maintained by the W3C.
 *[W3C]:  World Wide Web Consortium
 *[HTTP]: Hyper Text Transport Protocol
 
+# Fun Stories
+
+A nice thing about markdown is, that it is not so complicated, compared to HTML. For example, creating a heading in HTML looks like this:
+
+```html
+<h1>Hello World</h1>
+```
+
+while in markdown, it looks like this (and is a lot simpler)
+
+```markdown
+# Hello World
+```
+
+Hello World, why does it work now? And why didn't it earlier? But me is happy now...
+
+
+
 # Authors
 
 This app is maintained by:
